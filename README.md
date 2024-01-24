@@ -5,31 +5,43 @@
 ## Tutorial Rocketseat/Fullcycle sobre Prisma
 
 Prisma: A revolução para se trabalhar com banco de dados
+
 https://www.youtube.com/watch?v=C8Oc31uk2Hw
 
 ## Começando o projeto
 
 > yarn init -y
+
 > yarn add typescript -D
+
 > yarn tsc --init
 
 ## Ferramentas de testes, dev e prod
 
 > yarn add tsx -D
+
 > yarn add tsup -D
+
 > yarn add vitest -D
+
 > yarn add axios -D
 
 ## Prisma 
 
 > yarn add prisma -D
+
+> yarn add @prisma/client
+
 > yarn prisma init
+
 > yarn prisma db push
+
 > yarn prisma studio
 
 ## Express
 
 > yarn add express
+
 > yarn add @types/express
 
 # PRISMA DOCS
