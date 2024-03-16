@@ -34,6 +34,8 @@ https://www.youtube.com/watch?v=C8Oc31uk2Hw
 
 > yarn prisma init
 
+> npx prisma migrate dev --name init
+
 > yarn prisma db push
 
 > yarn prisma studio
